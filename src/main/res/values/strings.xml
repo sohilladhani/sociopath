@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Socio-path</string>
+
+    <string name="fb_app_id">767035036768075</string>
+    <string name="fb_login_protocol_scheme">fb767035036768075</string>
+
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="dummy_button">Send</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="vCard">vCard</string>
+    <string name="Facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="pinterest">Pinterest</string>
+</resources>
